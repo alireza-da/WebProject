@@ -1,11 +1,11 @@
 # WebProject
 Frontend :
   
-  npm install
+    npm install
   
-  npm run serve
+    npm run serve
   
 Backend:
   
-  python manage.py runserver
+    python manage.py runserver
  
